@@ -1,6 +1,8 @@
 # quote
 
-> A Vue.js project
+> A Vue.js project - Quote app
+
+![Quote](https://user-images.githubusercontent.com/33149366/87872633-c9d9d480-c9d3-11ea-88cd-ceec837c78d8.PNG)
 
 ## Build Setup
 
